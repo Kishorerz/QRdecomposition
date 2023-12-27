@@ -1,4 +1,4 @@
-# Algorithm for QR Decomposition
+![Screenshot 2023-12-27 204504](https://github.com/Kishorerz/QRdecomposition/assets/144451216/ce8e26ac-ef4f-491d-920e-97e705a0964f)# Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -64,6 +64,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![output](<Screenshot 2023-12-27 204504.png>)
+![Screenshot 2023-12-27 204504](https://github.com/Kishorerz/QRdecomposition/assets/144451216/8f314885-688d-4be9-b488-fe2407428d8a)
+
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
