@@ -1,4 +1,4 @@
-##Aim:
+#Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
 1.	Hardware – PCs
